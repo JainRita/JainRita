@@ -1,7 +1,7 @@
 # Hi, I'm Rita Jain 👋
 AI/ML Specialist | Data Science (MSc) | Enterprise AI agents & automation
 
-I spent 6+ years automating enterprise workflows with Copilot Studio, Power Automate and RPA. Now I'm going deeper into data science and Machine Learning, and building in public.
+I spent 6+ years automating enterprise workflows with Copilot Studio, Power Automate, Power Apps and RPA.
 
 ## What I work with
 Python · Pandas · NumPy · Scikit-learn · Copilot Studio · Power Automate · Power BI
